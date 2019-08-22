@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>airplane</folder>
+	<filename>t018f6d7038b066d50d.jpg</filename>
+	<path>F:\airplane\t018f6d7038b066d50d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>445</width>
+		<height>273</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>96</ymin>
+			<xmax>418</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

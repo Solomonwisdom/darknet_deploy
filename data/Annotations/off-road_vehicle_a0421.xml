@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>CarDataset军用越野车_1</folder>
+	<filename>Baidu_0889.jpeg</filename>
+	<path>F:\Desktop\CarDataset-待标注\CarDataset军用越野车_1\Baidu_0889.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>off-road_vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>62</ymin>
+			<xmax>279</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

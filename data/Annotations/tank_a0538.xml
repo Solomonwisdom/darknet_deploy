@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>tank2</folder>
+	<filename>tank2_323.jpeg</filename>
+	<path>D:\tank2\tank2_323.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tank</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>311</ymin>
+			<xmax>1264</xmax>
+			<ymax>946</ymax>
+		</bndbox>
+	</object>
+</annotation>

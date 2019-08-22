@@ -1,0 +1,50 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>新建文件夹 (2)</folder>
+	<filename>n02814533_37181.jpg</filename>
+	<path>D:\filteredImgs\car\新建文件夹 (2)\n02814533_37181.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>364</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>75</ymin>
+			<xmax>363</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>320</ymin>
+			<xmax>117</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>174</ymin>
+			<xmax>230</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

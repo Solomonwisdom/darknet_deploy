@@ -1,0 +1,26 @@
+<annotation>
+	<folder>renamed_car</folder>
+	<filename>car_o1013.jpg</filename>
+	<path>/home/miracle/Documents/detect/dataSet0716/car/renamed_car/car_o1013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5156</width>
+		<height>2904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1487</xmin>
+			<ymin>1659</ymin>
+			<xmax>3902</xmax>
+			<ymax>2740</ymax>
+		</bndbox>
+	</object>
+</annotation>

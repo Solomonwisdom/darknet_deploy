@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>airplane</folder>
+	<filename>147081444058062928_620_1000.JPEG</filename>
+	<path>F:\airplane\147081444058062928_620_1000.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>162</ymin>
+			<xmax>283</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

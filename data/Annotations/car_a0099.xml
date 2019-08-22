@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation>
+	<folder>n02814533</folder>
+	<filename>n02814533_20940</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>94</ymin>
+			<xmax>428</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>70</ymin>
+			<xmax>234</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

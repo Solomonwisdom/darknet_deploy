@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>n02814533</folder>
+	<filename>n02814533_12979</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>73</ymin>
+			<xmax>494</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,5 @@
+classes= 7
+train = /workspace/darknet_deploy/data/train.lst
+valid = /workspace/darknet_deploy/data/test.lst
+names = /workspace/darknet_deploy/data/js_detect.names
+backup= /workspace/darknet_deploy/data/backup

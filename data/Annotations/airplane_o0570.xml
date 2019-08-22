@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>airplane</folder>
+	<filename>20170830_79654a6ce2363de3dacfd63ed3f4ee83_cover_mwpm_05501609.jpeg</filename>
+	<path>F:\airplane\20170830_79654a6ce2363de3dacfd63ed3f4ee83_cover_mwpm_05501609.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>549</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>106</ymin>
+			<xmax>537</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

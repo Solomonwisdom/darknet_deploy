@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>airplane</folder>
+	<filename>8326cffc1e178a82db51d5d3f703738da977e850.jpg</filename>
+	<path>F:\airplane\8326cffc1e178a82db51d5d3f703738da977e850.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1680</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>93</ymin>
+			<xmax>1467</xmax>
+			<ymax>884</ymax>
+		</bndbox>
+	</object>
+</annotation>

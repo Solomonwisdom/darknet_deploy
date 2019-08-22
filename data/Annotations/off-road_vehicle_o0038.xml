@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>CarDataset&#20891;&#29992;&#36234;&#37326;&#36710;_1</folder>
+	<filename>Baidu_0057.jpeg</filename>
+	<path>F:\Desktop\CarDataset-&#24453;&#26631;&#27880;\CarDataset&#20891;&#29992;&#36234;&#37326;&#36710;_1\Baidu_0057.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>off-road_vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>56</ymin>
+			<xmax>494</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>CarDataset军用越野车_1</folder>
+	<filename>Baidu_1352.jpeg</filename>
+	<path>F:\Desktop\CarDataset-待标注\CarDataset军用越野车_1\Baidu_1352.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>off-road_vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>80</ymin>
+			<xmax>1276</xmax>
+			<ymax>1003</ymax>
+		</bndbox>
+	</object>
+</annotation>

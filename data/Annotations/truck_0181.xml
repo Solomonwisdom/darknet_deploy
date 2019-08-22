@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n04467665</folder>
+	<filename>n04467665_2000</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>61</ymin>
+			<xmax>261</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>
